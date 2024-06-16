@@ -1,4 +1,4 @@
-Executando os comandos abaixo:
+Execute os comandos abaixo:
 
 npm install -g npm
 
