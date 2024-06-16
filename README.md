@@ -1,4 +1,4 @@
-Lembre-se de criar o node_modulos, executando os comandos abaixo:
+Executando os comandos abaixo:
 
 npm install -g npm
 
